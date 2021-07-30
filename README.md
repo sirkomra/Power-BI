@@ -1,2 +1,2 @@
 # Power-BI
-I've developed a Attendance Dashboard using Power BI
+I've created a Attendance Dashboard using Power BI
